@@ -5,6 +5,9 @@ Bu Python uygulaması, verilen URL listesini topluca HTTP durum kodları, yanıt
 
 ---
 
+![Program Resmi](https://raw.githubusercontent.com/ebubekirbastama/ebs-http-status-bulk-tester/refs/heads/main/ebs.png)
+
+
 ✨ Özellikler ✨
 --------------
 
