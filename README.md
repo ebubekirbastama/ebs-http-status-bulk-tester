@@ -4,8 +4,10 @@
 Bu Python uygulaması, verilen URL listesini topluca HTTP durum kodları, yanıt süreleri ve detaylı HTTP başlıklarıyla kontrol eder. Modern, kullanıcı dostu ve emoji destekli bir Tkinter GUI arayüzü sağlar. Sonuçları Excel, CSV, TXT ve Bootstrap destekli detaylı HTML raporu olarak dışa aktarabilir.
 
 ---
-
+✨ Tool Resimleri ✨
+--------------
 ![Program Resmi](https://raw.githubusercontent.com/ebubekirbastama/ebs-http-status-bulk-tester/refs/heads/main/ebs.png)
+![Html Çıktı](https://raw.githubusercontent.com/ebubekirbastama/ebs-http-status-bulk-tester/refs/heads/main/htmlcikti.png)
 
 
 ✨ Özellikler ✨
